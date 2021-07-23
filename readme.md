@@ -104,7 +104,6 @@ I resumed the training from where it had stopped with the following command
   
 ![image](https://user-images.githubusercontent.com/53332753/126834111-06e50372-8acb-4ae5-8cab-b5f84f73bf1f.png) ![image](https://user-images.githubusercontent.com/53332753/126834126-7e852924-1846-4a31-8dd9-8dc9020ac02d.png) ![image](https://user-images.githubusercontent.com/53332753/126834149-cf062522-ddfd-431a-9b15-09c6338f0a19.png) ![image](https://user-images.githubusercontent.com/53332753/126834101-b4a1a273-d166-473f-933a-4abe24c3b115.png) 
 
-Thanks for your attention
 
 Welcome_To_Colaboratory (0) = Googlecolab environment code before gpu limit expires
 Welcome_To_Colaboratory = Googlecolab environment code after changing account
@@ -118,3 +117,6 @@ exp = Output test files
 - [x] Mount your Google drive account with your Google colab account
 - [x] Unzip your files
 - [x] Train...
+
+***Thanks for your attention***
+
