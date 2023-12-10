@@ -3,7 +3,6 @@
 ![306497416](https://user-images.githubusercontent.com/53332753/126833194-a648432d-a450-49e3-9fcc-479455990a48.jpg)
 
 
-
 How to implement the identification of traffic signs From labeling to training using Google Colaboratory and Yolov5
 
 ## FIRST STEP: GATHERING DATASET
